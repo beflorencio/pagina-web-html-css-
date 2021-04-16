@@ -1,0 +1,87 @@
+header{
+    background-color: #000000;
+    padding: 20px 0;
+}
+
+h1 img{
+    width: 15%;
+    margin-left: 18px;
+}
+.caixa{
+    position: relative;
+    margin: 0 0 auto auto ;
+
+}
+
+nav{
+    position: absolute;
+    top: 50px;
+    right: 25px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0  15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #f2b5d4;
+    text-decoration: underline;
+}
+.conteudo {
+    width: 940px; 
+    margin: 0 auto ;
+    padding: 50px 0;
+}
+.conteudo li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.conteudo li:hover{
+    border-color: #f2b5d4;
+}
+
+.conteudo li:active{
+    border-color: aquamarine;
+}
+
+.conteudo li:hover h2{
+    font-size: 30px;
+}
+.conteudo h2{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.conteudo-desc{
+    font-size: 18px;
+    margin: 10px 0 0;
+}
+
+footer{
+    text-align: center;
+    background: #000000;
+    padding: 20%;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}

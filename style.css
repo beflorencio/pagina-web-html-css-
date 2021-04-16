@@ -1,0 +1,63 @@
+body{
+    background: #bfbdc1;
+    margin: 20px;
+}
+
+.tituloPrincipal{
+    padding-left: 20px;
+    background-color: #f2b5d4;
+    font-size: 40px;
+    text-align: center;
+}
+#img1{
+    width: 25%;
+    padding:20px;
+    margin-left: 497px;
+}
+.principal{
+    padding: 30px;
+}
+
+.principal img{
+    width: 65%;
+}
+.tituloCentralizado{
+    text-align: center;
+    padding: 15px;
+}
+ 
+ p{
+    text-align: center;
+    font-size: 18px;
+ }
+
+ #missao {
+    font-size: 18px;
+ }
+
+ em strong{
+     color: #b4638c;
+ }
+
+ .itens {
+     font-style: italic;
+ }
+
+ .tracklist{
+     padding: 20px;
+     background-color: #7c7c7c;
+ }
+
+
+ ol{
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+     font-size: 18px;
+     padding-left: 30px;
+ }
+
+ #img2{
+     width: 50%;
+ }
